@@ -24,7 +24,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com/oMelqs/story-teller-app
+$ git clone https://github.com/oMelqs/talking-pepper-app
 $ cd to the directory
 $ npm (or yarn) install
 $ npm (or yarn) start
