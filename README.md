@@ -1,6 +1,6 @@
 # <div align="center"> TalkingPepper | ReactJS, React Native and NodeJS App </div>
 
-<p align="center">Build a inclusive application to distribute classical poems and storys/</p>
+<p align="center">-/</p>
 
 ## 🛠️ Technologies
 
